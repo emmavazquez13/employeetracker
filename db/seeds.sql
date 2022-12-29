@@ -1,6 +1,6 @@
 /* work on seedes file 
 /* create config folder and connection.js file to connect to mysql database */
-INSERT INTO departments (dep_name)
+INSERT INTO departments (name)
 VALUES ('Sales'),
        ('Engineering'),
        ('Finance'),
